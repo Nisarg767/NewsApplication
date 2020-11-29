@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:id="@+id/splashid"
+    android:layout_height="match_parent"
+    tools:context=".splash_act">
+    <LinearLayout
+        android:id="@+id/spllid"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/spiv"
+            android:layout_marginTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TV REPORT 18"
+            android:textStyle="bold"
+            android:textSize="25dp"
+            android:fontFamily="@font/truefonts4"
+            />
+
+        <TextView
+            android:id="@+id/sptv"
+            android:layout_marginTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="News Are Endless"
+            android:textStyle="bold"
+            android:textSize="22dp"
+            android:fontFamily="@font/truefonts"
+            />
+    </LinearLayout>
+</RelativeLayout>

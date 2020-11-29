@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Theme">
+        <menu>
+            <item
+                android:id="@+id/darkt"
+                android:title="Dark Theme"
+                android:icon="@mipmap/dark_foreground"/>
+            <item
+                android:id="@+id/lightt"
+                android:title="Default Theme"
+                android:icon="@mipmap/light_foreground"/>
+
+        </menu>
+    </item>
+    <item android:title="Follow Us">
+        <menu>
+            <item
+                android:id="@+id/Twitter"
+                android:icon="@mipmap/twitter_foreground"
+                android:title="Twitter"
+                />
+            <item
+                android:id="@+id/Facebook"
+                android:icon="@mipmap/facebook_foreground"
+                android:title="Facebook" />
+            <item
+                android:id="@+id/Instagram"
+                android:icon="@mipmap/instagram_foreground"
+                android:title="Instagram" />
+
+
+        </menu>
+    </item>
+            <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/Home"
+            android:icon="@mipmap/home_foreground"
+            android:title="Home" />
+
+        <item
+            android:id="@+id/Gujarat"
+            android:icon="@mipmap/gujarat_foreground"
+
+            android:title="Gujarat" />
+        <item
+            android:id="@+id/India"
+            android:icon="@mipmap/india_foreground"
+
+            android:title="India" />
+        <item
+            android:id="@+id/Crime"
+            android:icon="@mipmap/crime_foreground"
+            android:title="Crime" />
+        <item
+            android:id="@+id/World"
+            android:icon="@mipmap/world_foreground"
+            android:title="World" />
+        <item
+            android:id="@+id/Health"
+            android:icon="@mipmap/health_foreground"
+            android:title="Health" />
+        <item
+            android:id="@+id/Business"
+            android:icon="@mipmap/business_foreground"
+            android:title="Business" />
+        <item
+            android:id="@+id/Entertainment"
+            android:icon="@mipmap/entertainment_foreground"
+            android:title="Entertainment" />
+        <item
+            android:id="@+id/Sports"
+            android:icon="@mipmap/sports_foreground"
+            android:title="Sports" />
+        <item
+            android:id="@+id/Technology"
+            android:icon="@mipmap/technology_foreground"
+            android:title="Technology" />
+
+        <item
+            android:id="@+id/LifeFashion"
+            android:icon="@mipmap/lifendfashion_foreground"
+            android:title="Life And Fashion" />
+    </group>
+
+    <item android:title="Other">
+        <menu>
+            <item
+                android:id="@+id/contactus"
+                android:icon="@mipmap/contactus_foreground"
+                android:title="Contact Us" />
+
+            <item
+                android:id="@+id/privacy"
+                android:icon="@mipmap/privacy_foreground"
+                android:title="Privacy Policy" />
+
+
+            <item
+                android:id="@+id/termsndcond"
+                android:icon="@mipmap/termsandconditions_foreground"
+                android:title="Terms And Conditions" />
+
+        </menu>
+    </item>
+</menu>

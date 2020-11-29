@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "703812109450",
+    "firebase_url": "https://core-period-264909.firebaseio.com",
+    "project_id": "core-period-264909",
+    "storage_bucket": "core-period-264909.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703812109450:android:3849a676e131ad94675973",
+        "android_client_info": {
+          "package_name": "com.example.newsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703812109450-18pogoafea3kjo2bfbgp5eonf3uskgoq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6ja0_AQnarCfQSF-f_Z1DqpKVH-QUfks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703812109450-18pogoafea3kjo2bfbgp5eonf3uskgoq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703812109450:android:fab93f8c51062d9f675973",
+        "android_client_info": {
+          "package_name": "com.tvreport18.newsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703812109450-18pogoafea3kjo2bfbgp5eonf3uskgoq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6ja0_AQnarCfQSF-f_Z1DqpKVH-QUfks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703812109450-18pogoafea3kjo2bfbgp5eonf3uskgoq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
